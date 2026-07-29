@@ -27,8 +27,18 @@ li {
   list-style: none;
 }
 
-.flex{display: flex;}
-.flex-1{flex: 1;}
+.flex {
+  display: flex;
+}
+.flex-1 {
+  flex: 1;
+}
+
+.row {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
 
 /* NAVIGATION BAR */
 
@@ -77,4 +87,11 @@ nav {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+}
+
+.about-me__info-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
