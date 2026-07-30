@@ -95,3 +95,14 @@ nav {
   justify-content: center;
   align-items: center;
 }
+
+.about-me__picture--mask {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.about-me__picture {
+  width: 100%;
+}
