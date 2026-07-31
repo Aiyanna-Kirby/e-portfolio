@@ -248,24 +248,33 @@ nav {
   padding-top: 40px;
 }
 
+.project:hover .project__description {
+  opacity: 1;
+  transform: translateY(-50%);
+}
+
 .project__description {
   position: absolute;
   top: 50%;
   left: 90px;
-  transform: translateY(-50%);
+  transform: translateY(100%);
   max-width: 550px;
   z-index: 3;
+  opacity: 0;
+  transition:
+    transform 450ms,
+    opacity 300ms;
 }
 
-.project__description--title{
+.project__description--title {
   font-size: 48px;
 }
 
-.project__description--para{
+.project__description--para {
   margin: 16px 0;
 }
 
-.project__description--link{
+.project__description--link {
   font-size: 20px;
   margin-right: 16px;
   text-decoration: none;
