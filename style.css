@@ -329,7 +329,7 @@ footer {
   height: 70px;
 }
 
-.footer__social--links,
+.footer__social--link,
 .footer__copyright {
-  color: white;
+  color: #fff;
 }
