@@ -17,7 +17,7 @@ h4,
 h5,
 h6,
 span {
-  color: black;
+  color: #134611;
   text-align: center;
   line-height: 1.25;
 }
@@ -29,6 +29,7 @@ h1 {
 p {
   line-height: 1.5;
   font-size: 16px;
+  color: #134611;
 }
 
 a {
@@ -115,7 +116,7 @@ nav {
 
 .nav__link--anchor {
   margin: 0 12px;
-  color: black;
+  color: #134611;
   font-weight: 700;
 }
 
@@ -132,7 +133,7 @@ nav {
 
 .personal__logo {
   font-size: 24px;
-  color: #6030b1;
+  color: #134611;
   margin: 0 12px;
   font-weight: bold;
 }
