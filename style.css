@@ -114,7 +114,7 @@ nav {
   font-weight: 700;
 }
 
-.nav__link--anchor-primary {
+.nav__link--anchor--primary {
   background-color: #6030b1;
   padding: 8px 20px;
   border-radius: 50px;
@@ -382,33 +382,6 @@ footer {
 }
 
 /* SMALL PHONES, TABLETS, AND LARGE SMARTPHONES*/
-@media (max-width: 768px) {
-  nav {
-    height: 68px;
-  }
 
-  h1 {
-    font-size: 28px;
-  }
-
-  .about-me__info--para {
-    font-size: 18px;
-  }
-
-  .language {
-    width: calc(100% / 2);
-  }
-
-  .project__desciption--para {
-    font-size: 14px;
-  }
-
-  .project__descripiton {
-    left: 30px;
-    padding-right: 30px;
-  }
-}
 
 /* SMALL PHONES*/
-@media (max-width: 480px) {
-}
