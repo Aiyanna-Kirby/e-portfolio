@@ -87,7 +87,7 @@ li {
 }
 
 .text-dark-cyan {
-  color: #3E8989;
+  color: #3e8989;
 }
 
 section:nth-child(even) {
@@ -121,14 +121,14 @@ nav {
 }
 
 .nav__link--anchor--primary {
-  background-color: #6030b1;
+  background-color: #134611;
   padding: 8px 20px;
   border-radius: 50px;
   color: white;
 }
 
-.nav__link--anchor-primary:hover {
-  background-color: #5d3eff;
+.nav__link--anchor--primary:hover {
+  background-color: #2cda9d;
 }
 
 .personal__logo {
