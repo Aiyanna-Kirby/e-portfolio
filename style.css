@@ -40,6 +40,7 @@ a {
 i:hover {
   opacity: 0.7;
 }
+
 .link__hover-effect:after {
   content: "";
   position: absolute;
@@ -84,8 +85,8 @@ li {
   padding: 0 12px;
 }
 
-.text-purple {
-  color: #6030b1;
+.text-dark-cyan {
+  color: #3E8989;
 }
 
 section:nth-child(even) {
