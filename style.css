@@ -401,7 +401,7 @@ nav {
 /* FOOTER*/
 
 footer {
-  background-color: #242424;
+  background-color: #EAE8FF;
 }
 
 .footer__social--list {
@@ -427,7 +427,7 @@ footer {
 .footer__social--link,
 .footer__copyright,
 .footer__logo--popper {
-  color: #fff;
+  color: #134611;
 }
 
 .footer__logo--popper {
