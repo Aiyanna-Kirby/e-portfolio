@@ -57,7 +57,7 @@ i:hover {
 }
 
 .link__hover-effect--black:after {
-  background-color: #134611;
+  background-color: #eae8ff;
 }
 
 .link__hover-effect:hover:after {
@@ -129,7 +129,7 @@ nav {
 }
 
 .nav__link--anchor--primary:hover {
-  background-color: #eae8ff;
+  background-color: #7b6e90;
 }
 
 .personal__logo {
